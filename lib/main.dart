@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:shopeasy/Login.dart';
+import 'package:shopeasy/login.dart';
 import 'package:shopeasy/app_setting.dart';
 
 void main() {
