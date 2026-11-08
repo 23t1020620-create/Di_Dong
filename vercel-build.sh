@@ -1,6 +1,7 @@
-
 #!/bin/bash
 set -e
+
+export CI=true
 
 echo "Downloading Flutter SDK 3.24.5..."
 
