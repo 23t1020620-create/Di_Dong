@@ -113,6 +113,179 @@ class _DanhsachState extends State<Danhsach> {
       'diem': 4.5,
       'luotDanhGia': 180,
     },
+        // ===== Điện thoại =====
+    {
+      'ten': 'iPhone 16 Pro Max',
+      'tenEn': 'iPhone 16 Pro Max',
+      'anh':
+          'https://images.unsplash.com/photo-1592750475338-74b7b21085ab?w=600',
+      'danhMuc': 'Điện thoại',
+      'gia': 30090000,
+      'giaGoc': 34990000,
+      'giamGia': 14,
+      'diem': 4.9,
+      'luotDanhGia': 940,
+    },
+    {
+      'ten': 'Xiaomi 14T',
+      'tenEn': 'Xiaomi 14T',
+      'anh':
+          'https://images.unsplash.com/photo-1598327105666-5b89351aff97?w=600',
+      'danhMuc': 'Điện thoại',
+      'gia': 9990000,
+      'giaGoc': 12990000,
+      'giamGia': 23,
+      'diem': 4.5,
+      'luotDanhGia': 510,
+    },
+    {
+      'ten': 'OPPO Reno12',
+      'tenEn': 'OPPO Reno12',
+      'anh':
+          'https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?w=600',
+      'danhMuc': 'Điện thoại',
+      'gia': 9990000,
+      'giaGoc': 11990000,
+      'giamGia': 17,
+      'diem': 4.4,
+      'luotDanhGia': 390,
+    },
+    {
+      'ten': 'Google Pixel 9',
+      'tenEn': 'Google Pixel 9',
+      'anh':
+          'https://images.unsplash.com/photo-1610945415295-d9bbf067e59c?w=600',
+      'danhMuc': 'Điện thoại',
+      'gia': 19990000,
+      'giaGoc': 22990000,
+      'giamGia': 13,
+      'diem': 4.6,
+      'luotDanhGia': 270,
+    },
+
+    // ===== Laptop =====
+    {
+      'ten': 'MacBook Pro 14',
+      'tenEn': 'MacBook Pro 14',
+      'anh':
+          'https://images.unsplash.com/photo-1541807084-5c52b6b3adef?w=600',
+      'danhMuc': 'Laptop',
+      'gia': 39990000,
+      'giaGoc': 42990000,
+      'giamGia': 7,
+      'diem': 4.9,
+      'luotDanhGia': 480,
+    },
+    {
+      'ten': 'ASUS ROG Strix G16',
+      'tenEn': 'ASUS ROG Strix G16',
+      'anh':
+          'https://images.unsplash.com/photo-1603302576837-37561b2e2302?w=600',
+      'danhMuc': 'Laptop',
+      'gia': 29990000,
+      'giaGoc': 35990000,
+      'giamGia': 17,
+      'diem': 4.7,
+      'luotDanhGia': 310,
+    },
+    {
+      'ten': 'Lenovo ThinkPad E14',
+      'tenEn': 'Lenovo ThinkPad E14',
+      'anh':
+          'https://images.unsplash.com/photo-1588872657578-7efd1f1555ed?w=600',
+      'danhMuc': 'Laptop',
+      'gia': 16990000,
+      'giaGoc': 19990000,
+      'giamGia': 15,
+      'diem': 4.5,
+      'luotDanhGia': 220,
+    },
+    {
+      'ten': 'HP Pavilion 15',
+      'tenEn': 'HP Pavilion 15',
+      'anh':
+          'https://images.unsplash.com/photo-1593642632823-8f785ba67e45?w=600',
+      'danhMuc': 'Laptop',
+      'gia': 14990000,
+      'giaGoc': 17990000,
+      'giamGia': 17,
+      'diem': 4.4,
+      'luotDanhGia': 260,
+    },
+
+    // ===== Phụ kiện =====
+    {
+      'ten': 'Đồng hồ thông minh',
+      'tenEn': 'Smart Watch',
+      'anh':
+          'https://images.unsplash.com/photo-1523275335684-37898b6baf30?w=600',
+      'danhMuc': 'Phụ kiện',
+      'gia': 5990000,
+      'giaGoc': 6990000,
+      'giamGia': 14,
+      'diem': 4.7,
+      'luotDanhGia': 560,
+    },
+    {
+      'ten': 'Bàn phím cơ',
+      'tenEn': 'Mechanical Keyboard',
+      'anh':
+          'https://images.unsplash.com/photo-1587829741301-dc798b83add3?w=600',
+      'danhMuc': 'Phụ kiện',
+      'gia': 1000000,
+      'giaGoc': 1290000,
+      'giamGia': 22,
+      'diem': 4.6,
+      'luotDanhGia': 340,
+    },
+    {
+      'ten': 'Sạc dự phòng 20000mAh',
+      'tenEn': '20000mAh Power Bank',
+      'anh':
+          'https://images.unsplash.com/photo-1609091839311-d5365f9ff1c5?w=600',
+      'danhMuc': 'Phụ kiện',
+      'gia': 550000,
+      'giaGoc': 690000,
+      'giamGia': 20,
+      'diem': 4.5,
+      'luotDanhGia': 720,
+    },
+    {
+      'ten': 'Loa Bluetooth',
+      'tenEn': 'Bluetooth Speaker',
+      'anh':
+          'https://images.unsplash.com/photo-1608043152269-423dbba4e7e1?w=600',
+      'danhMuc': 'Phụ kiện',
+      'gia': 990000,
+      'giaGoc': 1490000,
+      'giamGia': 34,
+      'diem': 4.6,
+      'luotDanhGia': 410,
+    },
+    {
+      'ten': 'Ốp lưng điện thoại',
+      'tenEn': 'Phone Case',
+      'anh':
+          'https://images.unsplash.com/photo-1601593346740-925612772716?w=600',
+      'danhMuc': 'Phụ kiện',
+      'gia': 200000,
+      'giaGoc': 250000,
+      'giamGia': 20,
+      'diem': 4.3,
+      'luotDanhGia': 150,
+    },
+    {
+      'ten': 'Cáp sạc nhanh USB-C',
+      'tenEn': 'USB-C Fast Charging Cable',
+      'anh':
+          'https://images.unsplash.com/photo-1583863788434-e58a36330cf0?w=600',
+      'danhMuc': 'Phụ kiện',
+      'gia': 150000,
+      'giaGoc': 190000,
+      'giamGia': 21,
+      'diem': 4.4,
+      'luotDanhGia': 880,
+    },
   ];
 
   int get soLuongGioHang {
